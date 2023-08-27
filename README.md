@@ -13,10 +13,10 @@
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
-- 👯 I’m looking to collaborate with Fullstack Web and UI/UX projects.
+- 🔭 I’m currently working on: A Team Project for a Zumba Web Application.
+- 👯 I’m looking to collaborate with anyone doing Game Development.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
+- ⚡ Fun fact: I love food, what more can I say? :D.
 <br>
 
 ---
