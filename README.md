@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    My name is <b>Dylan Martin</b>. I’m currently in my second year studying towards my Bachelor of Applied Information Technology degree at Waikato Institute of Technology in New Zealand. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.
+    My name is <b>Dylan Martin</b>. I’m currently in my second year studying towards my Bachelor of Applied Information Technology degree at Waikato Institute of Technology in New Zealand. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of game development or software engineering. In my free time I like working on open source projects.
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
