@@ -15,7 +15,7 @@
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on: A Team Project for a Zumba Web Application.
 - 👯 I’m looking to collaborate with anyone doing Game Development.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
+- 💡 Contributing to Open Source Projects in my free time.
 - ⚡ Fun fact: I love food, what more can I say? :D.
 <br>
 
