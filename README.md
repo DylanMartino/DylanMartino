@@ -74,9 +74,6 @@
   <a href="https://www.linkedin.com/in/dylanmartino/">
    <img align="left" alt=" Dylan Martin | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:mrdylanmartino@gmail.com">
-    <img align="left" alt="Dylan Martin | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
    <a href="https://github.com/DylanMartino">
     <img align="left" alt="Dylan Martin | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
