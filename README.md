@@ -13,9 +13,8 @@
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on: A Team Project for a Zumba Web Application.
+- 🔭 I’m currently working on: Completing my Bachelor's of Applied Information Technology Degree
 - 👯 I’m looking to collaborate with anyone doing Game Development.
-- 💡 Contributing to Open Source Projects in my free time.
 - ⚡ Fun fact: I love food, what more can I say? :D.
 <br>
 
