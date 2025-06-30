@@ -13,7 +13,7 @@
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on: Completing my Bachelor's of Applied Information Technology Degree
+- 🔭 I’m currently working on: Futhering my skills as a Software Developer.
 - 👯 I’m looking to collaborate with anyone doing Game Development.
 - ⚡ Fun fact: I love food, what more can I say? :D.
 <br>
